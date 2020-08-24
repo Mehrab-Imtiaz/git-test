@@ -1,0 +1,29 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Mehrab",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehrab-Imtiaz/git-test.git"
+  },
+  "keywords": [
+    "git",
+    "and",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mehrab-Imtiaz/git-test/issues"
+  },
+  "homepage": "https://github.com/Mehrab-Imtiaz/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
